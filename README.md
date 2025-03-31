@@ -117,6 +117,8 @@ Natural-Ebook-Reader-Unlimited/
 ├── README.md
 ├── images/
 │   └── banner.png   ← Github repo purpose
+├── demo/
+│   └── Natural-Reader-Lunch-V1.mp4   ← Github repo purpose
 ```
 
 ---
