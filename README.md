@@ -96,7 +96,7 @@ You’ll see a simple GUI with:
 
 ---
 
-## 🖥️ Optional: Convert to Windows `.exe`
+## 🖥️ Convert to Windows `.exe`
 
 You can turn this into a portable `.exe` for quick access:
 
