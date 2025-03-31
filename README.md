@@ -6,7 +6,7 @@ This tool is especially helpful for students, visually impaired users, or anyone
 
 ---
 
-![App Banner or Screenshot](images/banner.png)
+![App Banner or Screenshot](images/natural-reader-screenshot-1.png)
 
 ---
 
