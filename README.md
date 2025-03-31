@@ -14,7 +14,7 @@ This tool is especially helpful for students, visually impaired users, or anyone
 
 NaturalReaders offers **5 minutes of premium voice** to free users. Once that time is up, users must wait or upgrade to continue.
 
-This tool:
+This tool,
 - Routes through Brave's Tor mode to simulate a new session
 - Automatically navigates to the site
 - Allows users to reopen the premium reading window
