@@ -7,7 +7,6 @@ This tool is especially helpful for students, visually impaired users, or anyone
 ---
 
 ![App Banner or Screenshot](images/natural-reader-screenshot-1.png)
-[![Watch the Demo Video](demo/natural-reader-screenshot-1.png)](demo/Natural-Reader-Lunch-V1.mp4)
 
 ---
 
