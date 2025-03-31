@@ -19,7 +19,7 @@ This tool,
 - Automatically navigates to the site
 - Allows users to reopen the premium reading window
 
-💬 It's a valuable accessibility tool for:
+💬 It's a valuable accessibility tool for,
 - Students with limited resources
 - Individuals with reading challenges
 - Educational or temporary-use cases
